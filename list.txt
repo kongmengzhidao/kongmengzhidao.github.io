@@ -1,8 +1,3 @@
-泉州频道,#genre#
-
-泉州综合频道,https://live.qztv.cn/live/news.m3u8
-泉州闽南语,https://live.qztv.cn/live/mny.m3u8
-
 央视频道,#genre#
 
 超高清 4K,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
